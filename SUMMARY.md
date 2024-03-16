@@ -22,6 +22,7 @@
 * [Gene Expression](analysis/gene-expression/README.md)
   * [Multiple Experiment Comparison](analysis/gene-expression/multiple-experiment-comparison.md)
   * [Gene Coexpression](analysis/gene-expression/gene-coexpression.md)
+  * [Spatiotemporal Expression in eFP](analysis/gene-expression/spatiotemporal-expression-in-efp.md)
 * [Gene Set Function Analysis](analysis/gene-set-function-analysis.md)
 * [Gene Location Viewer](analysis/gene-location-viewer.md)
 * [Synteny Analysis](analysis/synteny-analysis.md)
