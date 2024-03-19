@@ -27,7 +27,7 @@ Currently, SapBase hosts genomic resources for seven Sapindaceae species, includ
 
 SapBase is constructed and maintained by **XIALAB** from the College of Horticulture at South China Agricultural University.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Sapbase provides a large number of user-friendly and easy-to-use analysis tools for online analysis of massive omics data of Sapindaceae species. Here we provide detailed instructions for each tool, including an introduction to input files and output results. In fact, a link to the help documentation is provided on the page of each tool, and users can click directly to view it.
 
