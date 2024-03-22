@@ -1,6 +1,4 @@
-# Data acquire and analyze in SapBase
-
-## Overview of data collection and analysis methods in SapBase
+# Data acquire and analyze methods in SapBase
 
 We collected the resequencing data, RNA-seq data and smRNA-seq data of Sapindaceae species from the SRA database and sRNAanno database (Chen et al. 2021).&#x20;
 

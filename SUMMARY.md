@@ -1,7 +1,7 @@
 # Table of contents
 
 * [😄 SapBase (Sapinaceae Genomic DataBase)](README.md)
-* [Data acquire and analyze in SapBase](data-acquire-and-analyze-in-sapbase.md)
+* [Data acquire and analyze methods in SapBase](data-acquire-and-analyze-methods-in-sapbase.md)
 
 ## BROWSE
 
