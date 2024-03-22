@@ -33,7 +33,7 @@ Sapbase provides a large number of user-friendly and easy-to-use analysis tools 
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-## Overview of data collection and analysis methods in sapbase
+## Overview of data collection and analysis methods in SapBase
 
 We collected the resequencing data, RNA-seq data and smRNA-seq data of Sapindaceae species from the SRA database and sRNAanno database (Chen et al. 2021).&#x20;
 
