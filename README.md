@@ -17,9 +17,9 @@ layout:
     visible: true
 ---
 
-# 😄 SapBase (Sapinaceae Genomic DataBase)
+# 😄 SapBase (Sapinaceae Genome DataBase)
 
-## Why Sapbase?
+## Why SapBase?
 
 [<mark style="color:green;">**SapBase**</mark>](http://www.sapindaceae.com/) aims to serve as a central genomic datahub and a powerful analytic platform for scientific research on Sapindaceae species and comparative studies with other plants.
 
